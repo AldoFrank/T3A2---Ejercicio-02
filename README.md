@@ -29,4 +29,7 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
     
     ~~~
       
+  3.- Diseño de la solución
   
+  
+  4.- Desarrollo de la solución
