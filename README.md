@@ -33,3 +33,4 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
   
   
   4.- Desarrollo de la solución
+  ![](https://github.com/AldoFrank/T3A2---Ejercicio-02/blob/main/Horario.zip)
